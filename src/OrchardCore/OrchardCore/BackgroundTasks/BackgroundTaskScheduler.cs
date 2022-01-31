@@ -2,6 +2,8 @@ using System;
 using NCrontab;
 using OrchardCore.Modules;
 
+// adding comment to force rescan?
+
 namespace OrchardCore.BackgroundTasks
 {
     public class BackgroundTaskScheduler
